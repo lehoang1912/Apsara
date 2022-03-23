@@ -10,10 +10,13 @@ Việc tăng View nó rất quan trọng cho việc kinh doanh, vì người dù
 
 Cách sử dụng phần mềm.
 
-Tải chương trình Apsara.exe về, giao diện như bên dưới:
+Chạy Apsara.exe, giao diện đăng nhập
 
+![alt text](https://raw.githubusercontent.com/thanhtd32/Apsara/main/Figures/apsara1.PNG)
 
 Sau khi đăng nhập, giao diện màn hình như dưới đây:
+
+![alt text](https://github.com/thanhtd32/Apsara/blob/main/Figures/apsara2.PNG)
 
 
 Mục 1: Nhập tiêu đề cho Video
